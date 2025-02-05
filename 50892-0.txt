@@ -1,130 +1,43 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <title>
-      The Project Gutenberg eBook of My Lady Selene, by Magnus Ludens.
-    </title>
-    <link rel="coverpage" href="images/cover.jpg" />
+*** START OF THE PROJECT GUTENBERG EBOOK 50892 ***
 
-    <style type="text/css">
+                            My Lady Selene
 
-body {
-    margin-left: 10%;
-    margin-right: 10%;
-}
+                           By MAGNUS LUDENS
 
-    h1,h2 {
-    text-align: center; /* all headings centered */
-    clear: both;
-}
-
-p {
-    margin-top: .51em;
-    text-align: justify;
-    margin-bottom: .49em;
-}
-
-hr {
-    width: 33%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-left: 33.5%;
-    margin-right: 33.5%;
-    clear: both;
-}
-
-hr.chap {width: 65%; margin-left: 17.5%; margin-right: 17.5%;}
-hr.tb {width: 45%; margin-left: 27.5%; margin-right: 27.5%;}
-
-.center   {text-align: center;}
-
-.right   {text-align: right;}
-
-.caption  {font-weight: bold;}
-
-/* Images */
-.figcenter   {
-    margin: auto;
-    text-align: center;
-}
-
-div.titlepage {
-  text-align: center;
-  page-break-before: always;
-  page-break-after: always;
-}
-
-div.titlepage p {
-  text-align: center;
-  text-indent: 0em;
-  font-weight: bold;
-  line-height: 1.5;
-  margin-top: 3em;
-}
-
-.ph1, .ph2, .ph3, .ph4 { text-align: center; text-indent: 0em; font-weight: bold; }
-.ph1 { font-size: xx-large; margin: .67em auto; }
-.ph2 { font-size: x-large; margin: .75em auto; }
-.ph3 { font-size: large; margin: .83em auto; }
-.ph4 { font-size: medium; margin: 1.12em auto; }
+           [Transcriber's Note: This etext was produced from
+                      Galaxy Magazine April 1963.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
 
 
-    </style>
-  </head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 50892 ***</div>
 
-<div class="figcenter">
-  <img src="images/cover.jpg" width="385" height="500" alt=""/>
-</div>
 
-<hr class="chap" />
+                   Everyone knows the Moon is dead.
+                    Everyone is quite correct--now!
 
-<div class="titlepage">
 
-<h1>My Lady Selene</h1>
-
-<p>By MAGNUS LUDENS</p>
-
-<p>[Transcriber's Note: This etext was produced from<br />
-Galaxy Magazine April 1963.<br />
-Extensive research did not uncover any evidence that<br />
-the U.S. copyright on this publication was renewed.]</p>
-
-</div>
-
-<hr class="chap" />
-
-<p class="ph3"><i>Everyone knows the Moon is dead.<br />
-Everyone is quite correct&mdash;now!</i></p>
-
-<hr class="chap" />
-
-<p>On impact he'd had time to see Hatter's head jerk loose from the
+On impact he'd had time to see Hatter's head jerk loose from the
 carefully weakened strap. As Hatter slumped unconscious he touched the
-hidden switch.</p>
+hidden switch.
 
-<p>A shock, then darkness.</p>
+A shock, then darkness.
 
-<p>What first came to him out of the humming blackout mist was his own
+What first came to him out of the humming blackout mist was his own
 name: Marcusson. Al Marcusson, just turned sixteen that Saturday in
 June, that green-leafed day his father had called him out to the back
 yard. They had sat on discount-house furniture under the heavy maple,
 Al who wore jeans and sneakers and a resigned expression, his father
 who wore glasses, a sport shirt, slacks, eyelet shoes and a curious
-reckless smile, a smile that didn't belong in the picture.</p>
+reckless smile, a smile that didn't belong in the picture.
 
-<p>"Now you're sixteen, Al, there's something I have to tell you," his
+"Now you're sixteen, Al, there's something I have to tell you," his
 father had begun. "My father told me when I turned sixteen, and his
 father told him. First, the name of our family isn't Marcusson. It's
-Marcopoulos. Your name's Alexander Marcopoulos."</p>
+Marcopoulos. Your name's Alexander Marcopoulos."
 
-<p>"What? Dad, you must be kidding! Look, all the records...."</p>
+"What? Dad, you must be kidding! Look, all the records...."
 
-<p>"The records don't go back far enough. Our name was changed four
+"The records don't go back far enough. Our name was changed four
 generations back, but the legal records disappeared in the usual
 convenient courthouse fire. As far as anyone knows, our family's name's
 always been Marcusson. My grandfather went to Minnesota and settled
@@ -136,45 +49,45 @@ confused. You better pay attention, Al. This is the only time I'm going
 to speak of our family, like my father. We never bothered much, by the
 way, about how our name was written. You can believe me or think I sat
 in the sun too long, but I'll tell you how our most famous relatives
-spelled it: Marco Polo."</p>
+spelled it: Marco Polo."
 
-<p>"Oh, now...."</p>
+"Oh, now...."
 
-<p>"Never mind what you think now. Besides, I won't answer any questions,
+"Never mind what you think now. Besides, I won't answer any questions,
 anyway. My father didn't and he was right. I found out some things by
 myself later; you'll probably find out more. For example, the best job
 for us is still exploring. That's why I became an oil geologist, and it
 paid off. Another thing: learning the legends of the place you're in,
 if you take up exploring, can mean the difference between success and a
 broken neck. That's all, boy. Guess I'll get your mother some peonies
-for the supper table."</p>
+for the supper table."
 
-<p>Al Marcusson had gone up quietly to his room. Later, his special gift
+Al Marcusson had gone up quietly to his room. Later, his special gift
 for languages and math got him through college and engineering school;
 his sense of direction and lack of inner-ear trouble helped to get him
-chosen for Astronaut training while he was in the Air Force.</p>
+chosen for Astronaut training while he was in the Air Force.
 
-<p>While in training at the Cape he had met and married a luscious
+While in training at the Cape he had met and married a luscious
 brunette librarian in one of the sponge-fishing towns, a brunette with
 a rather complicated last name that became forgotten as she turned
 into Mrs. Marcusson, and unbeatable recipes for the most bewitching
-cocktails since Circe held the shaker for Ulysses.</p>
+cocktails since Circe held the shaker for Ulysses.
 
-<p>Marcusson's hobbies included scuba diving, electronic tinkering and
+Marcusson's hobbies included scuba diving, electronic tinkering and
 reading. His psychiatrists noted a tendency to reserve, even secrecy,
 which was not entirely bad in a man who worked with classified material
 and had to face long periods of time alone. Besides, his ability to get
-along with people largely compensated.</p>
+along with people largely compensated.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>With slowly returning consciousness the last months of training swam
-in Al Marcusson's mind. The orbital flight&mdash;the only part of it he'd
+With slowly returning consciousness the last months of training swam
+in Al Marcusson's mind. The orbital flight--the only part of it he'd
 really enjoyed was the quarter-hour alone with SARAH, the electronic
 beacon, cut off from Control and even from the rescue team just over
-the horizon, alone with the music of wind and sea.</p>
+the horizon, alone with the music of wind and sea.
 
-<p>For the moon shot he'd been responsible for communications, recording
+For the moon shot he'd been responsible for communications, recording
 and sensing systems inside the capsule, as Hatter had for the
 life-support systems and their two back-up men for propulsion and
 ground systems coordination respectively. He relived the maddening,
@@ -185,20 +98,20 @@ vision, clenched teeth, the suit digging into him, the brief relief of
 weightlessness erased by the cramped, terrifying ride filled with new
 sensations and endless petty tasks. The camera eye pitilessly trained
 on his helmet. The way things had of staying there when you'd put them
-away. On Earth&mdash;already it was "On Earth," as if Earth was a port he'd
-sailed from&mdash;you put things out of your mind, but here they bobbed
+away. On Earth--already it was "On Earth," as if Earth was a port he'd
+sailed from--you put things out of your mind, but here they bobbed
 before you still, like the good luck charm in its little leather bag,
 for instance, the charm his wife had tied to one of his fastener tabs
 and that kept dancing in the air like a puppet, jerking every time he
-breathed.</p>
+breathed.
 
-<p>Every time he breathed in the familiar sweat-plastic-chemicals smell,
+Every time he breathed in the familiar sweat-plastic-chemicals smell,
 familiar because he'd been smelling it in training, in the transfer
 truck, in the capsule mock-up for months. All that should be new and
 adventurous had become stale and automatic through relentless training.
 His eyes rested on the color-coded meters and switches that were
 associated with nausea in the centrifuge tumbler-trainer. The couch
-made him think of long hours in the chlorinated pool&mdash;he always used to
+made him think of long hours in the chlorinated pool--he always used to
 come out with his stomach rumbling and wrinkled white fingers, despite
 the tablets and the silicone creams. His skin itched beneath the
 adhesive pads that held the prying electrodes to his body, itched like
@@ -208,9 +121,9 @@ oil-fouled hot smell, its whiffs of canteen cooking, fish, seaweed and
 raw concrete in the sun. Hatter's and his own sing-song bit talk, so
 deliciously new to television audiences, rang trite in his own ears: a
 makeshift vocabulary, primer sentences chosen for maximum transmission
-efficiency to Control.</p>
+efficiency to Control.
 
-<p>The Control center he remembered from having watched orbital flights
+The Control center he remembered from having watched orbital flights
 himself. Machines that patiently followed pulse rate, breathing,
 temperature. Squiggly lines, awkward computer handwriting, screens
 where dots jumped, screens that showed instrument panels, screens
@@ -218,30 +131,30 @@ where his own helmet showed, and inside it the squirming blob that was
 his own face, rendered as a kind of rubberized black-and-white tragic
 mask. He felt the metal ears turning, questing for signals, the little
 black boxes, miniaturized colossi tracking, listening, spewing tape. On
-the capsule itself&mdash;all folded in like Japanese water flowers&mdash;sensors,
+the capsule itself--all folded in like Japanese water flowers--sensors,
 cameras, listeners, analyzers should have burgeoned on impact, shot up,
-reached out, grasped, retracted, analyzed, counted, transmitted.</p>
+reached out, grasped, retracted, analyzed, counted, transmitted.
 
-<p>But he'd cut the switch.</p>
+But he'd cut the switch.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>Al Marcusson blinked awake.</p>
+Al Marcusson blinked awake.
 
-<p>He set about freeing himself, a task comparable to getting a butterfly
+He set about freeing himself, a task comparable to getting a butterfly
 alive out of a spider web. Every creak of his suit and of the moulded
 couch sounded loud and flat in the newly silent capsule. His breathing
 soughed about him. But no signal went out from the electrodes taped to
 his chest to say that his heart beat had again topped a hundred, that
-he sweated, that his stomach contracted&mdash;even though he was under no
+he sweated, that his stomach contracted--even though he was under no
 gravity strain, the emergency cooling worked, and his latest no-crumbs,
-low-residue meal had been welcomed by the same stomach an hour earlier.</p>
+low-residue meal had been welcomed by the same stomach an hour earlier.
 
-<p>He sat up. The port gave off a pale creamy glow. He leaned forward and
+He sat up. The port gave off a pale creamy glow. He leaned forward and
 could see nothing except for a cream- or eggshell-colored mist, even
-and opaque.</p>
+and opaque.
 
-<p>He undid his glove-rings and took off his gloves. By the gleam of his
+He undid his glove-rings and took off his gloves. By the gleam of his
 wrist-light he checked whether Hatter was breathing correctly from his
 suit, visor down, and not the capsule's air, then put his gloves on
 again and bled the air slowly out. They were not supposed to leave the
@@ -250,65 +163,65 @@ something had had to be considered and it was theoretically possible.
 He began the nerve-rasping egress procedure, through the narrow
 igloo-lock that seemed to extend painful claws and knobs to catch at
 every loop and fold of his suit. At last he gave a frantic wiggle and
-rolled free.</p>
+rolled free.
 
-<p>Because of the dead switch, turning antennae circled in vain, pens
+Because of the dead switch, turning antennae circled in vain, pens
 stopped reeling out ink, screens stayed blank. The men in the control
 room activated emergency signals but got no triggered responses.
 Meanwhile, television reporters sent frantic requests for background
-material fillers, their "and now back to's" falling thick and fast.</p>
+material fillers, their "and now back to's" falling thick and fast.
 
-<p>Al Marcusson bounced on a kind of lumpy featherbed two or three times
+Al Marcusson bounced on a kind of lumpy featherbed two or three times
 before coming to rest in the same eggshell soup. Dust. Moon dust that
 had no particular reason for dropping back now cocooned the ship. He
 stood up with great care and staggered straight out, putting his feet
 down slowly to minimize dust puffs. The mist thinned and he rubbed the
-gloves against his visor and goggled.</p>
+gloves against his visor and goggled.
 
-<p>Cliffs, craters, spines, crests and jags stood there as in the
+Cliffs, craters, spines, crests and jags stood there as in the
 photographs except for a curious staginess he realized came from the
 harsh footlights effect of the twilight zone they'd landed in and from
 the shorter horizon with its backdrop of old black velvet dusty with
-stars. But the colors!</p>
+stars. But the colors!
 
-<p>Ruby cliffs, surfaces meteor-pitted in places to a rosy bloom, rose to
+Ruby cliffs, surfaces meteor-pitted in places to a rosy bloom, rose to
 pinnacles of dull jade that fell again in raw emerald slopes; saffron
 splashes of small craters punctuated the violet sponge of scattered
 lava, topaz stalagmites reared against sapphire crests, amethyst spines
 pierced agate ridges ... and on every ledge, in every hollow, pale
-moondust lay like a blessing.</p>
+moondust lay like a blessing.
 
-<p>When you were a kid, did you ever wake up at night in a Pullman berth
+When you were a kid, did you ever wake up at night in a Pullman berth
 and hear the snoring and looked at the moonwashed countryside knowing
 you only were awake and hugging the knowledge to yourself? Did you ever
 set off alone at dawn to fish or hunt and watch the slow awakening of
 trees? Did you ever climb the wall into an abandoned estate and explore
 the park and suddenly come upon a statue half-hidden in honeysuckle, a
-statue with a secret smile?</p>
+statue with a secret smile?
 
-<p>Al Marcusson sat by himself on the twilight zone of the Moon and
+Al Marcusson sat by himself on the twilight zone of the Moon and
 watched the sun shining through cloudy glass arches and throwing on
 moondust the same colored shadows that it throws through the great
 stained-glass windows on the flagstones of Chartres cathedral. He
 looked up at Earth, now in "New Earth" position, a majestic ring of
 blue fire flushed with violet, red and gold at the crescent where
 clouds flashed white iridescence. He jerked free the little bag that
-held his good luck charm and waited.</p>
+held his good luck charm and waited.
 
-<p>They came.</p>
+They came.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>He could see them silhouetted against Earth, the long undulating V
+He could see them silhouetted against Earth, the long undulating V
 of them. Now he could discern their wings beating in the vacuum that
 couldn't support them and heard the wild lonely honking through the
 vacuum that couldn't transmit sound. White wings surged steadily
 nearer. Soon there was a tempest of white, a tempest that stirred no
-dust, and the swans settled about him.</p>
+dust, and the swans settled about him.
 
-<p>Al Marcusson stood up.</p>
+Al Marcusson stood up.
 
-<p>"My Lady Selene," he began, speaking carefully although he knew that
+"My Lady Selene," he began, speaking carefully although he knew that
 the sound could not be heard outside his helmet. "My Lady Luna, my Lady
 of the Swans, I greet you. I know of you through legends: I know you
 are Aphrodite the Swan-Rider, goddess of love that drives to suicide.
@@ -332,39 +245,39 @@ Mother Goose. Children know of the lady who flies on goose's back, her
 cape dark behind her, and each generation in turn still listens to
 your spells, my Lady of the Swans. And sometimes poets, and sometimes
 hunters, and sometimes lovers look up at the moon and are afraid and
-acknowledge your power."</p>
+acknowledge your power."
 
-<p>Al Marcusson stopped. The birds ringed him in. He held up his good luck
+Al Marcusson stopped. The birds ringed him in. He held up his good luck
 charm, a small, carved rock-crystal swan, such as are found in the very
-ancient tombs of the bronze-age sea kings of the Aegean.</p>
+ancient tombs of the bronze-age sea kings of the Aegean.
 
-<p>"My Lady Selene," he cried, "I bring an offering! I came alone, before
+"My Lady Selene," he cried, "I bring an offering! I came alone, before
 the others, to tell you the new beliefs now come to your dwelling. I
 came to warn you, my Lady of the Swans, to beg you not to be wrathful
 against us, unwilling intruders, to ask you to take up your dwelling in
 another place, but not to deprive us of poetry, of witching spells and
 dreams, and all that the Moon has meant to us." He threw the crystal
-swan before him.</p>
+swan before him.
 
-<p>The plumes about him foamed and a snowy form emerged, a moonstone with
+The plumes about him foamed and a snowy form emerged, a moonstone with
 black opal eyes who smiled and began to sing. Marcusson's knees gave
 and his eyes closed. Then she spread great swan wings and soared,
 circling far lest her shadow fall on the crumpled spacesuited figure.
-She rose. And her swans&mdash;her thousand myriad swans&mdash;rose after her out
+She rose. And her swans--her thousand myriad swans--rose after her out
 of cracks, caves and craters, from beneath overhangs, from ledges,
 hollows and rock-falls, their plumes at first stained with the colors
 of the stone. They winged away, V after sinuous V, across Earth and
 into space. When the last swan had left the Moon became just another
-piece of colored rock.</p>
+piece of colored rock.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>Al Marcusson opened his eyes and made his way dully back into the
+Al Marcusson opened his eyes and made his way dully back into the
 dust cloud now shot with flashes of red-orange as Earth's laser beams
 searched for the capsule's nerve centers. He bumped against a strut and
-forced his way in.</p>
+forced his way in.
 
-<p>A hum filled the capsule. Ungainly jointed limbs, paddles, calyxes,
+A hum filled the capsule. Ungainly jointed limbs, paddles, calyxes,
 sprouted from its outside walls. On Earth pens jiggled, tapes were
 punched, rows of figures in five columns appeared on blank pages,
 pulses jumped and two groggy, worn-out faces appeared on the control
@@ -374,14 +287,18 @@ reading dials, reporting on systems. Then the screens showed Al
 Marcusson's eyes opening in turn. Control could see him leaning forward
 towards the port, his face drawn in haggard lines and shadows, then
 letting his head fall back. "Hey," he said, "didn't Doc tell you guys
-dust gives me hay fever?"</p>
+dust gives me hay fever?"
 
-<p>On Earth the men about the screens slapped each other's backs and
+On Earth the men about the screens slapped each other's backs and
 grinned and wiped their eyes. Good old bellyaching Marcusson! Good old
-Al! The Moon was just another piece of rock, after all.</p>
+Al! The Moon was just another piece of rock, after all.
 
-<p>But a star went nova in Cygnus, and lovers wished on it that night.</p>
+But a star went nova in Cygnus, and lovers wished on it that night.
 
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 50892 ***</div>
-</body>
-</html>
+
+
+
+
+End of the Project Gutenberg EBook of My Lady Selene, by Magnus Ludens
+
+*** END OF THE PROJECT GUTENBERG EBOOK 50892 ***
